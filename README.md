@@ -9,6 +9,25 @@ A comprehensive exploratory data analysis (EDA) of the DataCo Supply Chain datas
 ## 📌 Project Overview
 
 This project analyzes a large-scale supply chain dataset to identify patterns and bottlenecks across shipping, sales, and customer segments. The analysis is done entirely in Python using data visualization and statistical techniques.
+## 📌 Project Overview
+
+Supply chains are the backbone of global commerce — and understanding 
+where they succeed or fail can drive massive improvements in efficiency 
+and profitability. This project performs a comprehensive Exploratory 
+Data Analysis (EDA) on the DataCo Supply Chain dataset, which contains 
+180,000+ real-world orders spanning multiple product categories, 
+shipping modes, customer segments, and global markets.
+
+The goal of this analysis is to answer key business questions:
+- Which shipping modes and regions have the highest late delivery rates?
+- What product categories and departments drive the most profit?
+- Are there seasonal patterns in order volumes and revenue?
+- How do different customer segments behave in terms of order size and frequency?
+
+By cleaning the raw data, engineering meaningful features, and 
+visualizing trends, this project transforms a complex dataset into 
+clear, actionable insights — the kind that operations managers, 
+logistics teams, and business analysts can act on directly.
 
 ---
 
